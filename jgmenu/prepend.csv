@@ -1,0 +1,6 @@
+@rect,,10,8,180,25,3,left,top,#666666 80,#666666 80,content
+@search,,40,8,180,25,3,left,top,#ffffff 80,#ffffff 80,Type here to search
+@icon,,12,12,20,20,3,left,top,#2222dd 50,#eeeeee 20,/home/nico/.config/jgmenu/greeneye-search.svg
+Terminal,x-terminal-emulator,utilities-terminal
+File manager,pcmanfm,system-file-manager
+^sep()
